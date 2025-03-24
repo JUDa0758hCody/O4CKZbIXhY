@@ -24,7 +24,6 @@ builds:
 
 archives:
   - formats: tar.gz
-    wrap_in_directory: true
     format_overrides:
       - goos: windows
         formats: zip
