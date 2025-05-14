@@ -214,7 +214,6 @@
         "spaced-comment": [
             "error",
             "always",
-            {
                 "exceptions": ["-", "+", "\""],
                 "block": {
                     "balanced": true
