@@ -42,7 +42,6 @@ reject comments, commits, code, wiki edits, issues, and other contributions
 that are not aligned with this Code of Conduct, or to ban temporarily or
 permanently any contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
-
 ## Scope
 
 This Code of Conduct applies both within project spaces and in public spaces
