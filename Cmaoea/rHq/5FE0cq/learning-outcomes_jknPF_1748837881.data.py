@@ -119,7 +119,6 @@ for team in team_id_list:
         df = df.fillna(0)
         #adding this modified df to nested dictionary
         sub_dict_1 = {j:df}
-        all_stats_dict[team].update(sub_dict_1)
         
 
 #saving our generated dictionary as a pickle file to import into a later python file.
