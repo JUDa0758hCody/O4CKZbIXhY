@@ -199,7 +199,6 @@
         "quote-props": ["warn", "consistent-as-needed"],
         "quotes": ["error", "single"],
         "radix": "error",
-        "semi": ["error", "always"],
         "semi-spacing": "error",
         "semi-style": ["error", "last"],
         "space-before-function-paren": [
