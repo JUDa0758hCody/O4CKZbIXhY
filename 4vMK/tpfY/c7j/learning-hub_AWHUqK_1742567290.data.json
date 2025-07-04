@@ -178,7 +178,6 @@
             }
         ],
         "no-empty-pattern": "warn",
-        "no-octal": "warn",
         "no-octal-escape": "warn",
         "no-param-reassign": "error",
         "no-redeclare": "warn",
