@@ -34,5 +34,4 @@ per-file-ignores =
         # Do not call assert False since python -O removes these calls
         B011,
     **/tests/*:
-        # Do not call assert False since python -O removes these calls
         B011,
