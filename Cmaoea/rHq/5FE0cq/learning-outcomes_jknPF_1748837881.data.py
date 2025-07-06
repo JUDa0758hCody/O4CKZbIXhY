@@ -69,7 +69,6 @@ for team in team_id_list:
         elif home_goals < away_goals:
             df['Points'] = [0,2]
         else:
-            df['Points'] = ['nan', 'nan']
         #adding home-away identifier to df
         df['Team Identifier'] = [1,2]
         #adding team id
