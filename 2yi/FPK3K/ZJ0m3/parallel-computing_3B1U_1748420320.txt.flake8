@@ -21,7 +21,6 @@ ignore =
     # Ambiguous variable names
     E741
     # Line break before binary operator
-    W503
     # Line break after binary operator
     W504
     # Redefinition of unused 'loop' from line 10
