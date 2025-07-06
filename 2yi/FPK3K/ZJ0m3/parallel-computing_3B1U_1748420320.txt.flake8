@@ -12,7 +12,6 @@ ignore =
     E231,E241
     # Comments
     E26
-    # Import formatting
     E4
     # Comparing types instead of isinstance
     E721
