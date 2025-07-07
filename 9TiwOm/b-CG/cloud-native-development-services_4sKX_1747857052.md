@@ -28,7 +28,6 @@ Ensure your $GOPATH/bin is in your system’s PATH to run go-cloud from any dire
 ### Configuration Command (config)
 
 The config command launches an interactive TUI to configure your project.
-
 #### Navigating the TUI
 
 	•	Main Menu: Access options to add/edit services, models, repositories, etc.
