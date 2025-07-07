@@ -5,5 +5,4 @@ skip_list:
 warn_list:
   - no-changed-when
   - no-handler
-  - fqcn-builtins
   - var-spacing
