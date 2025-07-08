@@ -97,6 +97,5 @@ Q: Does go-cloud support gRPC or GraphQL?
 
 A: Currently, go-cloud supports REST services. Support for additional protocols is on the roadmap.
 
-### Conclusion
 
 With go-cloud, you can accelerate your microservices development while adhering to clean architecture principles. We hope this guide has been helpful. Happy coding!
