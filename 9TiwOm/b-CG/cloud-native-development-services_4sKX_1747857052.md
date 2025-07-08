@@ -5,7 +5,6 @@
 Welcome to the comprehensive guide for **go-cloud**, a tool designed to simplify microservices development using Go and Clean Architecture principles. This guide will walk you through everything you need to know to make the most out of go-cloud.
 
 ## Prerequisites
-
 - **Go Programming Language**: Version 1.16 or higher.
 - **Basic Knowledge of Go**: Understanding of Go modules and packages.
 - **Familiarity with Microservices**: Concepts and architecture.
