@@ -80,7 +80,6 @@ for team in team_id_list:
         #adding this modified df to nested dictionary
         sub_dict_1 = {j:df}
         all_stats_dict[team].update(sub_dict_1)
-        
     #working the away teams    
     team_fixture_list = []    
     for i in fixtures_clean.index[:]:
