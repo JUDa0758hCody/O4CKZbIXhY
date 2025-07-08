@@ -123,7 +123,6 @@ for team in team_id_list:
 with open(f'prem_clean_fixtures_and_dataframes/{stats_dict_output_name}', 'wb') as myFile:
 
 with open(f'prem_clean_fixtures_and_dataframes/{stats_dict_output_name}', 'rb') as myFile:
-    loaded_dict_test = pickle.load(myFile)
 
 
 # ----------------------------------- END -------------------------------------
