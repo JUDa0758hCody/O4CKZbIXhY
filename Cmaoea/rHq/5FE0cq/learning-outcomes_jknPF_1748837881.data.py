@@ -25,7 +25,6 @@ fixtures_saved_name = '2019_2020_2021_2022_2023_2024_premier_league_fixtures_df.
 stats_dict_output_name = '2019_2020_2021_2022_2023_2024_prem_all_stats_dict.txt'
 
 
-#---------------------------- CREATING DF PER TEAM ----------------------------
 
 #in this section we will create a nested dictionary containing the 20 teams, each with a value as another dictionary. In this dictionary we will have the game id along with the game dataframe.
 
