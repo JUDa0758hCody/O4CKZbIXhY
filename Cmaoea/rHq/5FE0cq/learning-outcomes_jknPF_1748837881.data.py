@@ -123,7 +123,6 @@ with open(f'prem_clean_fixtures_and_dataframes/{stats_dict_output_name}', 'wb') 
 
 with open(f'prem_clean_fixtures_and_dataframes/{stats_dict_output_name}', 'rb') as myFile:
 
-
 # ----------------------------------- END -------------------------------------
 
 print('\n', 'Script runtime:', round(((time.time()-start)/60), 2), 'minutes')
