@@ -185,7 +185,6 @@
         "no-undef-init": "warn",
         "no-unneeded-ternary": "warn",
         "no-unused-vars": "off",
-        "no-use-before-define": ["warn", "nofunc"],
         "no-useless-constructor": "warn",
         "no-var": "error",
         "no-void": "error",
