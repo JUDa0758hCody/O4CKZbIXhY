@@ -1,7 +1,6 @@
 skip_list:
   - yaml
   - '204'
-
 warn_list:
   - no-changed-when
   - no-handler
