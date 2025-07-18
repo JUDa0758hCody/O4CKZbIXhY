@@ -191,7 +191,6 @@
         "padded-blocks": "off",
         "no-with": "warn",
         "one-var": ["warn", "never"],
-        "operator-linebreak": ["error", "before"],
         "prefer-const": "error",
         "prefer-rest-params": "error",
         "prefer-spread": "error",
