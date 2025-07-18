@@ -91,7 +91,6 @@ for team in team_id_list:
         #removing percentage symbol in possession and passes and conv to int
         df['Ball Possession'] = df['Ball Possession'].str.replace('[\%]', '').astype(int)
         df['Passes %'] = df['Passes %'].str.replace('[\%]', '').astype(int)
-        #adding home vs away goals to df
         temp_index = fixtures_clean_ID_index.get_loc(j)
         home_goals = fixtures_clean['Home Team Goals'].iloc[temp_index]
         away_goals = fixtures_clean['Away Team Goals'].iloc[temp_index]
