@@ -13,7 +13,6 @@ ignore =
     # Comments
     E26
     E4
-    # Comparing types instead of isinstance
     E721
     # Assigning lambda expression
     E731
