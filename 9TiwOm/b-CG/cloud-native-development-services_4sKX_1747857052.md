@@ -22,7 +22,6 @@ go install github.com/Systenix/go-cloud/cmd/go-cloud@latest
 ```
 Ensure your $GOPATH/bin is in your system’s PATH to run go-cloud from any directory.
 
-## Getting Started
 
 ### Configuration Command (config)
 
