@@ -31,7 +31,6 @@ ignore =
 
 per-file-ignores =
     *_test.py:
-        # Do not call assert False since python -O removes these calls
         B011,
     **/tests/*:
         B011,
