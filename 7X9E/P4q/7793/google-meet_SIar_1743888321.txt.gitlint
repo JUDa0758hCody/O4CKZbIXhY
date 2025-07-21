@@ -40,7 +40,6 @@ words=wip
 # line-length=120
 # [body-min-length]
 # min-length=5
-
 # [body-is-missing]
 # Whether to ignore this rule on merge commits (which typically only have a title)
 # default = True
