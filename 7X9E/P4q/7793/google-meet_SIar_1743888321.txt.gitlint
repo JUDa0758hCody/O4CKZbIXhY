@@ -43,7 +43,6 @@ words=wip
 # [body-is-missing]
 # Whether to ignore this rule on merge commits (which typically only have a title)
 # default = True
-# ignore-merge-commits=false
 
 # [body-changed-file-mention]
 # This is useful for when developers often erroneously edit certain files or git submodules.
