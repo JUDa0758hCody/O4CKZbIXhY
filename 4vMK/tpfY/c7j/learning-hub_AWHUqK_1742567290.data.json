@@ -177,7 +177,6 @@
                 "maxEOF": 1
             }
         ],
-        "no-empty-pattern": "warn",
         "no-octal-escape": "warn",
         "no-param-reassign": "error",
         "no-redeclare": "warn",
