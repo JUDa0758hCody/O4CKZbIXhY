@@ -232,7 +232,6 @@
                 "args": "none",
                 "ignoreRestSiblings": false
             }
-        ],
         "@typescript-eslint/prefer-function-type": "error",
         "import/default": "error",
         "import/export": "off",
