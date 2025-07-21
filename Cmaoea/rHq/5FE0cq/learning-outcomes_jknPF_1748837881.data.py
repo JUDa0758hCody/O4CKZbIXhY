@@ -49,7 +49,6 @@ for team in team_id_list:
             if math.isnan(fixtures_clean['Home Team Goals'].iloc[i]) == False:
                 team_fixture_list.append(fixtures_clean['Fixture ID'].iloc[i])
     all_stats_dict[team] = {}
-    for j in team_fixture_list:
         #loading df
         df = pd.read_json('prem_game_stats_json_files/' + str(j) + '.json', orient='values')
         #removing percentage symbol in possession and passes and conv to int
