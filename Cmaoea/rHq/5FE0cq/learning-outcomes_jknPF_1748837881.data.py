@@ -124,4 +124,3 @@ with open(f'prem_clean_fixtures_and_dataframes/{stats_dict_output_name}', 'rb') 
 # ----------------------------------- END -------------------------------------
 
 print('\n', 'Script runtime:', round(((time.time()-start)/60), 2), 'minutes')
-print(' ----------------- END ----------------- \n')
