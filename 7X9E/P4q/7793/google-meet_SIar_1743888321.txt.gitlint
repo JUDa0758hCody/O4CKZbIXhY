@@ -18,7 +18,6 @@
 # debug=true
 
 # Set the extra-path where gitlint will search for user defined rules
-extra-path=gitlint/
 
 # [title-max-length]
 # line-length=80
