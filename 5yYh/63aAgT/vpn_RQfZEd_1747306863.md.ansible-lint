@@ -3,5 +3,4 @@ skip_list:
   - '204'
 warn_list:
   - no-changed-when
-  - no-handler
   - var-spacing
