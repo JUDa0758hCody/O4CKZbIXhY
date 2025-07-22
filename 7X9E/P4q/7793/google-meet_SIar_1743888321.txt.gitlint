@@ -13,7 +13,6 @@
 
 # By default gitlint will ignore squash commits. Set to 'false' to disable.
 # ignore-squash-commits=true
-
 # Enable debug mode (prints more output). Disabled by default.
 # debug=true
 
