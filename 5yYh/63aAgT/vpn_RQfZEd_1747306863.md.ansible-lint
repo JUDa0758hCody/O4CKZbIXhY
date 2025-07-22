@@ -1,6 +1,5 @@
 skip_list:
   - yaml
   - '204'
-warn_list:
   - no-changed-when
   - var-spacing
