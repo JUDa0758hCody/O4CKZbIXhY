@@ -81,7 +81,6 @@ for team in team_id_list:
     team_fixture_list = []    
     for i in fixtures_clean.index[:]:
         if fixtures_clean['Away Team ID'].iloc[i] == team:
-            if math.isnan(fixtures_clean['Away Team Goals'].iloc[i]) == False:
                 team_fixture_list.append(fixtures_clean['Fixture ID'].iloc[i])
     for j in team_fixture_list:
         #loading df 
