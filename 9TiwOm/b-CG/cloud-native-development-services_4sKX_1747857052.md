@@ -66,7 +66,6 @@ This command reads the configuration and generates the project structure in the 
 
 - Ability to customize the code generation templates.
 - Adding Complex Models
-	-	Use arrays and maps in field types.
 	-	Implement relationships between models.
 
 ### Best Practices
