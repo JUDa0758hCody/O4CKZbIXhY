@@ -235,7 +235,6 @@
         "import/default": "error",
         "import/export": "off",
         "import/max-dependencies": "off",
-        "import/named": "error",
         "import/namespace": "error",
         "import/newline-after-import": "error",
         "import/no-absolute-path": "error",
