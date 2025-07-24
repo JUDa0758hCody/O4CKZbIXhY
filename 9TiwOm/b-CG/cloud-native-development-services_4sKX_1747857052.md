@@ -63,7 +63,6 @@ This command reads the configuration and generates the project structure in the 
 ### Advanced Usage
 
 #### Coming soon
-
 - Ability to customize the code generation templates.
 - Adding Complex Models
 	-	Implement relationships between models.
