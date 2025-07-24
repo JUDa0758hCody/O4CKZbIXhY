@@ -68,7 +68,6 @@ for team in team_id_list:
             df['Points'] = [0,2]
         else:
         #adding home-away identifier to df
-        df['Team Identifier'] = [1,2]
         df['Team ID'] = [team, fixtures_clean['Away Team ID'].iloc[temp_index]]
         #adding game date
         gd = fixtures_clean['Game Date'].iloc[temp_index]
