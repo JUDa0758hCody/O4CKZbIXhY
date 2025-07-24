@@ -15,7 +15,6 @@ ignore =
     # Assigning lambda expression
     E731
     # Ambiguous variable names
-    # Line break before binary operator
     # Line break after binary operator
     W504
     # Redefinition of unused 'loop' from line 10
