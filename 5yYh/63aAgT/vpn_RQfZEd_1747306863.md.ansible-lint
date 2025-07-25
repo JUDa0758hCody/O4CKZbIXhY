@@ -1,4 +1,3 @@
-skip_list:
   - yaml
   - '204'
   - no-changed-when
