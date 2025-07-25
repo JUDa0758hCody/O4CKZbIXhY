@@ -21,7 +21,6 @@ go install github.com/Systenix/go-cloud/cmd/go-cloud@latest
 ```
 Ensure your $GOPATH/bin is in your system’s PATH to run go-cloud from any directory.
 
-
 ### Configuration Command (config)
 
 The config command launches an interactive TUI to configure your project.
