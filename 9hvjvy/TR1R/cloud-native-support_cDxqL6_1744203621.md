@@ -6,7 +6,6 @@ contributors and maintainers pledge to make participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
 level of experience, education, socio-economic status, nationality, personal
 appearance, race, religion, or sexual identity and orientation.
-
 ## Our Standards
 
 Examples of behavior that contribute to creating a positive environment
