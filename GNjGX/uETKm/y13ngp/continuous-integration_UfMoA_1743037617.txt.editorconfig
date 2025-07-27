@@ -1,4 +1,3 @@
-root = true
 [*.{js, scss, css, hbs, svg}]
 indent_style = space
 indent_size = 2
