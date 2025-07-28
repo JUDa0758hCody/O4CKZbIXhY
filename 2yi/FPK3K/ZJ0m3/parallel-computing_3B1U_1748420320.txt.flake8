@@ -24,5 +24,4 @@ ignore =
 per-file-ignores =
     *_test.py:
         B011,
-    **/tests/*:
         B011,
