@@ -1,7 +1,6 @@
 # flake8 doesn't support pyproject.toml yet https://github.com/PyCQA/flake8/issues/234
 [flake8]
 # References:
-# https://flake8.readthedocs.io/en/latest/user/configuration.html
 # https://flake8.readthedocs.io/en/latest/user/error-codes.html
 exclude = __init__.py
 ignore =
