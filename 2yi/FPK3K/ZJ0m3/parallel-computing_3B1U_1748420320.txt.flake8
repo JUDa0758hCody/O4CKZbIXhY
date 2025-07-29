@@ -14,7 +14,6 @@ ignore =
     # Assigning lambda expression
     E731
     # Ambiguous variable names
-    W504
     # Redefinition of unused 'loop' from line 10
     F811
     # No explicit stacklevel in warnings.warn. FIXME we should correct this in the code
