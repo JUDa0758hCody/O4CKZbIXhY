@@ -19,7 +19,6 @@ ignore =
     F811
     # No explicit stacklevel in warnings.warn. FIXME we should correct this in the code
     B028
-    # multiple statements on one line; required for black compat
 
 per-file-ignores =
     *_test.py:
