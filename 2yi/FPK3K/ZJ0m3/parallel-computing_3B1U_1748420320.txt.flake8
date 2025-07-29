@@ -4,7 +4,6 @@
 # https://flake8.readthedocs.io/en/latest/user/error-codes.html
 exclude = __init__.py
 ignore =
-    E20
     # Multiple spaces around ","
     E231,E241
     # Comments
